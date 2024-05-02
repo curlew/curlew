@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**curlew/curlew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=curlew&theme=github-dark-blue&border=333333" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=curlew&theme=vue&border=e4e2e2" />
+        <img height="180" src="https://streak-stats.demolab.com?user=curlew&theme=github-dark-blue&border=333333" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=curlew&theme=github_dark&border_color=333333&layout=compact&langs_count=10" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=curlew&theme=vue&border_color=e4e2e2&layout=compact&langs_count=10" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=curlew&theme=github_dark&border_color=333333&layout=compact&langs_count=10" />
+    </picture>
+</div>
